@@ -6,7 +6,9 @@
 
 A productivity web app that helps users set, track, and achieve their goals with visual progress tracking and deadline management.
 
-![Dashboard Preview]( https://personal-goals-tracker-1j8g.vercel.app/) <!-- Add a screenshot -->
+![Dashboard Preview]( ) <!-- Add a screenshot -->
+## 🌐 Live Demo
+[ https://personal-goals-tracker-1j8g.vercel.app/])
 
 ## ✨ Features
 
