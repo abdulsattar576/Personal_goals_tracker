@@ -3,7 +3,7 @@ import Home from "./pages/Home";
 import Signup from "./pages/Signup";
 import Login from "./pages/Login";
 import Dashboard from "./pages/Dashboard";
-import Protected from "./components/protected";
+import Protected from "./components/Protected";
 export const router=createBrowserRouter([
      {
         path:"/",
